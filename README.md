@@ -60,7 +60,8 @@ To improve efficiency and reduce repetition, reusable functions were implemented
 
 Generates consistent time-series visualisations (price & volatility)
 - calculate_metrics()
-  Computes:
+
+   Computes:
 - average return
 - risk (standard deviation of returns)
 

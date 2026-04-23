@@ -56,12 +56,12 @@ Converting negative prices to absolute values
 ### 3. Function Design
 To improve efficiency and reduce repetition, reusable functions were implemented:
 
-plot_time_series()
-Generates consistent time-series visualisations (price & volatility)
-calculate_metrics()
-Computes:
-average return
-risk (standard deviation of returns)
+- plot_time_series()
+- Generates consistent time-series visualisations (price & volatility)
+- calculate_metrics()
+- Computes:
+- average return
+- risk (standard deviation of returns)
 
 This improves code readability and structure.
 

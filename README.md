@@ -35,6 +35,7 @@ Stocks included:
 - TSLA  
 - SPY (Benchmark)
 
+Processed datasets used in this project are provided in the `data` folder.
 ---
 
 ## Methodology

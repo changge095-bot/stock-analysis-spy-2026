@@ -71,14 +71,21 @@ This improves code readability and structure.
 
 #### Price Analysis
 - Visualizes stock price trends over time  
+-![Price](figures/price_chart.png)
 
 #### Return Analysis
 - Calculates daily returns  
-- Compares average returns across stocks  
+- Compares average returns across stocks
+- ![Return](figures/return_chart.png)
+
 
 #### Risk Analysis
 - Measures risk using standard deviation of returns  
-- Higher standard deviation = higher risk  
+- Higher standard deviation = higher risk
+- ![Risk](figures/risk_chart.png)
+
+#### Volatility Analysis
+![Volatility](figures/volatility_chart.png)
 
 ---
 ## Key Findings
